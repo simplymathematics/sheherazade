@@ -25,9 +25,6 @@
 [submodule "Quake-III-Arena"]
 	path = Quake-III-Arena
 	url = https://github.com/id-Software/Quake-III-Arena.git
-[submodule "ranviermud"]
-	path = ranviermud
-	url = https://github.com/RanvierMUD/ranviermud.git
 [submodule "stk-code"]
 	path = stk-code
 	url = https://github.com/supertuxkart/stk-code.git
@@ -37,3 +34,6 @@
 [submodule "xonotic"]
 	path = xonotic
 	url = https://github.com/xonotic/xonotic.git
+[submodule "ranviermud"]
+	path = ranviermud
+	url = https://github.com/RanvierMUD/ranviermud.git
