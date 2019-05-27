@@ -1,5 +1,5 @@
 # sheherazade
-p2p arcade
+An open-source arcade for wasting 1001 nights!
 
 ## 2048
 classic number game (single player)
