@@ -1,0 +1,39 @@
+[submodule "2048"]
+	path = 2048
+	url = https://github.com/gabrielecirulli/2048.git
+[submodule "BrowserQuest"]
+	path = BrowserQuest
+	url = https://github.com/mozilla/BrowserQuest.git
+[submodule "crawl"]
+	path = crawl
+	url = https://github.com/crawl/crawl.git
+[submodule "freedoom"]
+	path = freedoom
+	url = https://github.com/freedoom/freedoom.git
+[submodule "Gang-Garrison-2"]
+	path = Gang-Garrison-2
+	url = https://github.com/Medo42/Gang-Garrison-2.git
+[submodule "OpenRA"]
+	path = OpenRA
+	url = https://github.com/OpenRA/OpenRA.git
+[submodule "OpenRCT2"]
+	path = OpenRCT2
+	url = https://github.com/OpenRCT2/OpenRCT2.git
+[submodule "OpenTTD"]
+	path = OpenTTD
+	url = https://github.com/OpenTTD/OpenTTD.git
+[submodule "Quake-III-Arena"]
+	path = Quake-III-Arena
+	url = https://github.com/id-Software/Quake-III-Arena.git
+[submodule "ranviermud"]
+	path = ranviermud
+	url = https://github.com/RanvierMUD/ranviermud.git
+[submodule "stk-code"]
+	path = stk-code
+	url = https://github.com/supertuxkart/stk-code.git
+[submodule "vue-chessboard"]
+	path = vue-chessboard
+	url = https://github.com/vitogit/vue-chessboard.git
+[submodule "xonotic"]
+	path = xonotic
+	url = https://github.com/xonotic/xonotic.git
